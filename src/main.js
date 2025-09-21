@@ -22,11 +22,11 @@ var myStr = 'some string';
 var myBool = true;
 var myArr = [1, 2, 3, 4, 5];
 var myObj = { first: 'First Name', last: 'Last Name' };
-console.log(typeof myNum); // number
-console.log(typeof myStr);
-console.log(typeof myBool); // boolean
-console.log(typeof myArr);
-console.log(typeof myObj); // object
+console.log(myNum); // number
+console.log(myStr);
+console.log(myBool); // boolean
+console.log(myArr);
+console.log(myObj); // object
 
 
 /*
